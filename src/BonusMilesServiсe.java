@@ -1,4 +1,4 @@
-public class BonusMilesServise {
+public class BonusMilesServiсe {
     public int calculate(int cost) {
         int result;
         int amount = cost / 100;
