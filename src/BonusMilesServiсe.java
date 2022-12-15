@@ -4,8 +4,7 @@ public class BonusMilesServiсe {
         int amount = cost / 100;
         if (cost < 1000) {
             result = 0;
-        }
-        else {
+        } else {
             result = amount;
         }
         return result;
